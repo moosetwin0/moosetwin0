@@ -1,4 +1,4 @@
-- Hi, I’m moosetwin
+- I’m moosetwin
 - I’m interested in programming small projects for myself
 - I’m currently learning Python, although I am best at autohotkey
 - I’m looking to collaborate on pretty much anything
