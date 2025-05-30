@@ -1,6 +1,4 @@
-- I’m moosetwin
-- I’m interested in programming small projects for myself
-- I’m not looking to collaborate on anything
+Apologies if it takes a long time for me to respond to things, I don't check github that often. 
 
 <!---
 moosetwin0/moosetwin0 is a repository because its `README.md` (this file) appears on your GitHub profile.
